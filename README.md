@@ -52,7 +52,7 @@ I believe in shipping **fast, bold, and well-crafted**. Whether it's a hackathon
 ### 📫 Reach Me
 
 - 🌐 [vrajeshchary.github.io](https://vrajeshchary.github.io)
-- ✉️ vrajesh.chary@gmail.com
+- ✉️ vrajeshcharyofficial@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/vrajeshchary)
 - 🧠 Ask me about startups, AI ideas, or CTFs
 
