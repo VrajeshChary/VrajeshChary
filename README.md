@@ -58,5 +58,5 @@ I believe in shipping **fast, bold, and well-crafted**. Whether it's a hackathon
 
 ---
 
-> *"Hire the passionate — the skills follow."*  
+> *"Hire the passionate — the skills will follow."*  
 Let's build something legendary. ⚡
